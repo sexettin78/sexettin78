@@ -8,6 +8,8 @@
 ###### Discord: Sexettin#3146 
 ###### Discord sunucu: discord.io/sexettin 
 ###### Instagram: Sexettin 
+
+![Temsili resim](https://i.ytimg.com/vi/8XF8E9juB1s/hqdefault.jpg)
 <!--
 **sexettin78/sexettin78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
