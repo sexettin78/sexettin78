@@ -1,7 +1,13 @@
 ### Merhaba 👋
 ### Benim Adım Furkan,yazılıma meraklıyım genellikle python dilini kullanılırım
 ### En çok kullandığım diller: python,c#,php
-
+### Onun dışında temel olarak projelerimde yer alan diller: js,html,css,vs.net,batch
+### Sosyal medya adreslerim;
+Telegram: @korkakcocuk
+Telegram genel kanal: t.me/sexettin
+Discord: Sexettin#3146
+Discord sunucu: discord.io/sexettin
+Instagram: Sexettin 
 <!--
 **sexettin78/sexettin78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
