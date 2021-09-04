@@ -1,4 +1,6 @@
-### Hi there 👋
+### Merhaba 👋
+### Benim Adım Furkan,yazılıma meraklıyım genellikle python dilini kullanılırım
+### En çok kullandığım diller: python,c#,php
 
 <!--
 **sexettin78/sexettin78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
