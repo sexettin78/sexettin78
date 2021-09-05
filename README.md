@@ -11,6 +11,7 @@
 
 ![Temsili resim](https://cdn.discordapp.com/avatars/793537088015433759/ec9931504762c788f856ab192d60a06e.png?size=256)
 
+[![Sexettin's github stats](https://github-readme-stats.vercel.app/api?username=sexettin78&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sexettin78)](https://github.com/anuraghazra/github-readme-stats)
 
