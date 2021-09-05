@@ -7,7 +7,7 @@
 ###### Telegram genel kanal: t.me/sexettin 
 ###### Discord: Sexettin#3146 
 ###### Discord sunucu: discord.io/sexettin
-###### Instagram: Sexettin 
+###### Instagram: Sexettin (https://github.com/sexettin78) 
 
 ![Temsili resim](https://cdn.discordapp.com/avatars/793537088015433759/ec9931504762c788f856ab192d60a06e.png?size=256)
 
@@ -17,5 +17,5 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/sexettin78) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/sexettin) 
-[![Github fallower](https://img.shields.io/github/followers/sexettin78?style=social)]
+[![Github fallower](https://img.shields.io/github/followers/sexettin78?style=social)](https://github.com/sexettin78) 
 
