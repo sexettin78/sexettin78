@@ -7,7 +7,7 @@
 ###### Telegram genel kanal: t.me/sexettin 
 ###### Discord: Sexettin#3146 
 ###### Discord sunucu: discord.io/sexettin
-###### Instagram: Sexettin (https://github.com/sexettin78) 
+###### Instagram: Sexettin 
 
 ![Temsili resim](https://cdn.discordapp.com/avatars/793537088015433759/ec9931504762c788f856ab192d60a06e.png?size=256)
 
