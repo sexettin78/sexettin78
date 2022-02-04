@@ -1,7 +1,7 @@
 ### Merhaba 👋
 ## Benim Adım Furkan,yazılım ve siber güvenlik alanında çalışmalar yapıyorum,genellikle python dilini kullanılırım.
 ### En çok kullandığım diller: python,c#,php
-### Onun dışında temel olarak projelerimde yer alan diller: js,html,css,vs.net,batch
+### Onun dışında temel olarak projelerimde yer alan diller: js,html,css,vs.net,batch,bash
 ## Sosyal medya adreslerim;
 ###### Telegram: @korkakcocuk 
 ###### Telegram genel kanal: t.me/sexettin 
