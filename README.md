@@ -4,7 +4,7 @@
 ### En çok kullandığım diller: python, c#, php
 ### Onun dışında temel olarak projelerimde yer alan diller: js, html ,css ,vs.net ,batch ,bash, c, c++, java
 ## Sosyal medya adreslerim;
-###### Telegram: @korkakcocuk 
+###### Telegram: @FurkanDe
 ###### Telegram genel kanal: t.me/sexettin 
 ###### Discord: Sexettin#3146 
 ###### Discord sunucu: discord.io/sexettin
