@@ -2,7 +2,7 @@
 ## Benim Adım Furkan,yazılım ve siber güvenlik alanında çalışmalar yapıyorum,genellikle python dilini kullanılırım.
 ## Leafyet ve Leafyet'e bağlı tüm organizasyonların yöneticisiyim.
 ### En çok kullandığım diller: python, c#, php
-### Onun dışında temel olarak projelerimde yer alan diller: js, html ,css ,vs.net ,batch ,bash, c, c++, java
+### Onun dışında temel olarak projelerimde yer alan diller: js, html ,css ,vs.net ,batch ,bash, c, c++, java, sql, ruby
 ## Sosyal medya adreslerim;
 ###### Telegram: @FurkanDe
 ###### Telegram genel kanal: t.me/sexettin 
