@@ -5,7 +5,6 @@
 ### Onun dışında temel olarak projelerimde yer alan diller: js, html ,css ,vs.net ,batch ,bash, c, java, sql, ruby, asm, basic
 ## Sosyal medya adreslerim;
 ###### Telegram: @FurkanDe
-###### Telegram genel kanal: t.me/sexettin 
 ###### Mail: furkandegirmenciler@gmail.com
 
 
