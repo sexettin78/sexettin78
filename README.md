@@ -6,8 +6,6 @@
 ## Sosyal medya adreslerim;
 ###### Telegram: @FurkanDe
 ###### Telegram genel kanal: t.me/sexettin 
-###### Discord: Sexettin
-###### Instagram: Sexettin 
 ###### Mail: furkandegirmenciler@gmail.com
 
 
