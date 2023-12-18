@@ -7,7 +7,6 @@
 ###### Telegram: @FurkanDe
 ###### Telegram genel kanal: t.me/sexettin 
 ###### Discord: Sexettin
-###### Discord sunucu: https://discord.com/invite/DTN5RSvYvw
 ###### Instagram: Sexettin 
 ###### Mail: furkandegirmenciler@gmail.com
 
