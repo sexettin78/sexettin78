@@ -1,8 +1,8 @@
 ### Merhaba 👋
-## Benim Adım Furkan,yazılım ve siber güvenlik alanında çalışmalar yapıyorum,genellikle python dilini kullanılırım.
+## Benim adım Furkan, yazılım ve siber güvenlik alanında çalışmalar yapıyorum, genellikle Python dilini kullanılırım.
 ## Leafyet ve Leafyet'e bağlı tüm organizasyonların yöneticisiyim.
-### En çok kullandığım diller: python, c#, php, cpp
-### Onun dışında temel olarak projelerimde yer alan diller: js, html ,css ,vs.net ,batch ,bash, c, java, sql, ruby, asm, basic
+### En çok kullandığım diller: Python, C#, Php, Cpp
+### Onun dışında temel olarak projelerimde yer alan diller: Js, Html, Css, Vs.net, Batch, Bash, C, Java, Sql, Ruby, Asm, Basic
 ## Sosyal medya adreslerim;
 ###### Telegram: @FurkanDe
 ###### Mail: furkandegirmenciler@gmail.com
