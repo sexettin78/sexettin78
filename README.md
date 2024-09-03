@@ -43,7 +43,7 @@ Ben Furkan Değirmenciler, Bilgisayar Mühendisliği öğrencisiyim. Yazılım g
 
 #### 🎯 Hedeflerim ve İlgi Alanlarım:
 
-Uzman olmasam da kendi çapımda birkaç şey yapmaya çalışıyorum. Ne öğrendiysem paylaşıyorum da zaten. Benim asıl amaçlarımdan birisi de tüm bildiklerimi öğretmek. Bir gün bu işi yapamayacak duruma geldiğimde dünyada bir sürü Furkan bırakayım istiyorum. Öğrencilerimin yaptığı projelerde, paylaştıkları kaynaklarda kendimden parçalar buluyorum. Benim de değerli eğitmenlerden parçalar taşıdığım gibi. O parçalar durdukça, daha fazla insanda Furkan'dan bilgiler oldukça projelerim tükenmez. 
+Uzman olmasam da kendi çapımda birkaç şey yapmaya çalışıyorum. Ne öğrendiysem paylaşıyorum da zaten. Benim asıl amaçlarımdan birisi de tüm bildiklerimi öğretmek. Bir gün bu işi yapamayacak duruma geldiğimde dünyada bir sürü Furkan bırakmış olayım istiyorum. Öğrencilerimin yaptığı projelerde, paylaştıkları kaynaklarda kendimden parçalar buluyorum. Benim de değerli eğitmenlerden parçalar taşıdığım gibi. O parçalar durdukça, daha fazla insanda Furkan'dan bilgiler oldukça projelerim tükenmez. 
 
 Bilgisayar mühendisliği alanındaki eğitimime devam ederken, yazılım geliştirme ve grafik tasarımda kendimi sürekli olarak geliştirmeyi hedefliyorum. Ayrıca siber güvenlik ve eğitim alanlarında daha fazla proje üretmeyi planlıyorum.
 
