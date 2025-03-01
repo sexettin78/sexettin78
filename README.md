@@ -20,12 +20,15 @@ Ben Furkan Değirmenciler, Bilgisayar Mühendisliği öğrencisiyim. Yazılım g
   - **Adobe Premiere Pro & Lightroom:** Video düzenleme ve ışıklandırma için kendi işlerimi güzel bir şekilde tamamlayacak seviyede bilgiye sahibim.
 
 - **Siber Güvenlik:** 
-  - Siber güvenlik benim internete atılma hikayemin başlangıcını oluşturdu. Bundan yaklaşık 10 yıl önce daha çok küçükken internetten kendimi hacker olacağıma ikna ettiğim videolar izleyerek başladım siber güvenliğe. 10 yıl dediğime bakmayın, aklım başımda işler üreteli 4 veya 5 yıl oldu. Birçok farklı alanda çalışmalar yaptığım için siber güvenliğe pek bakamadım. Sexettintool benim için kendi siber güvenlik bilgimi ifade etme şekli. Başka nasıl ifade edebilirdim ki? İnsanlara bak bu siteye saldırdım diyecek ofansif çalışmalar yapmadım. Sızma testlerimi kendi sunucularımda, kendi cihazlarımda denedim. Bu yüzden eğer ki siber güvenlik üzerine bir şeyler sunmamı istiyorsanız Youtube kanalımdaki videolara, ürettiğim programlara bakabilirsiniz.
+  - Siber güvenlik benim internete atılma hikayemin başlangıcını oluşturdu. Bundan yaklaşık 10 yıl önce daha çok küçükken internetten kendimi hacker olacağıma ikna ettiğim videolar izleyerek başladım siber güvenliğe. 10 yıl dediğime bakmayın, aklım başımda işler üreteli 4 veya 5 yıl oldu. Sexettintool benim için kendi siber güvenlik bilgimi ifade etme şekli. Ayrıca arada bir Tryhackme üzerinde ctf çözerim. [Hesabım bu yazının arkasında gizli.](https://tryhackme.com/p/Sexettin) 
   
 - **Diğer Araçlar ve Teknolojiler:**
   - **Blender:** 3D modelleme projelerinde nadiren kullanıyorum.
   - **FL Studio:** Kendi oyun müziklerimi bu programla hazırlıyorum.
   - **Microsoft Office:** Kimya test kitabı, makaleler ve dergiler hazırlayarak yayımladım.
+
+-**Öğretmenlik:**
+  - 3 ay özel, 6 ay gönüllü öğretmenlik yaptım. Onun dışında yetiştirdiğim, beni öğretmeni olarak gören yüzlerce insan var. Daha nice ağaçlar yetiştireceğim. (İlk kitabımın ön sözüne ithafen)
 
 #### 📖 Yazdığım Kaynaklar:
 
