@@ -11,7 +11,7 @@ Ben Furkan Değirmenciler, Bilgisayar Mühendisliği öğrencisiyim. Yazılım g
   - **C#:** C# üzerine bir kitap yazdım ve Unity kullanarak birçok oyun ve uygulama geliştirdim. Bu alanda Windows uygulamaları ve konsol uygulamaları yazma deneyimim var.
   - **Web Geliştirme:** JavaScript, HTML, CSS ve PHP kullanarak çeşitli web siteleri ve web tabanlı sistemler geliştirdim.
   - **C/C++:** Bu dillerde 200'den fazla örnek program içeren bir depo oluşturarak birçok kişinin bu dilleri öğrenmesine yardımcı oldum.
-  - **Java:** Hem konsol hem de Android uygulama geliştirme için kullandım. [Google Play Mağazası'nda yayınladığım çeşitli uygulamalarım](https://play.google.com/store/apps/dev?id=4994375883711434197&hl=tr&gl=US) bulunuyor.
+  - **Java:** Hem konsol hem de Android uygulama geliştirme için kullandım. [Google Play mağazasında yayınladığım çeşitli uygulamalarım](https://play.google.com/store/apps/dev?id=4994375883711434197&hl=tr&gl=US) bulunuyor.
 
 - **Grafik Tasarım:** 
   - **Adobe Photoshop:** Kitap kapağı, albüm kapağı, afiş tasarımı, manga dizgileme ve fotoğraf restorasyonu gibi [çeşitli projelerde](https://furkandegirmenciler.com/category.php) uzun yıllardır kullanıyorum.
