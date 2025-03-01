@@ -27,7 +27,7 @@ Ben Furkan Değirmenciler, Bilgisayar Mühendisliği öğrencisiyim. Yazılım g
   - **FL Studio:** Kendi oyun müziklerimi bu programla hazırlıyorum.
   - **Microsoft Office:** Kimya test kitabı, makaleler ve dergiler hazırlayarak yayımladım.
 
--**Öğretmenlik:**
+- **Öğretmenlik:**
   - 3 ay özel, 6 ay gönüllü öğretmenlik yaptım. Onun dışında yetiştirdiğim, beni öğretmeni olarak gören yüzlerce insan var. Daha nice ağaçlar yetiştireceğim. (İlk kitabımın ön sözüne ithafen)
 
 #### 📖 Yazdığım Kaynaklar:
