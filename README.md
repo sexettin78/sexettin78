@@ -59,6 +59,7 @@ Bilgisayar mühendisliği alanındaki eğitimime devam ederken, yazılım geliş
 - **E-posta:** [furkandegirmenciler@gmail.com](mailto:furkandegirmenciler@gmail.com)
 - **Web:** [Leafyet Studio](https://leafyetstudio.com), [Furkan Değirmenciler](https://furkandegirmenciler.com)
 - **YouTube:** [Sexettin](https://www.youtube.com/sexettin)
+- **LinkedIn:** [Furkan Değirmenciler](https://www.linkedin.com/in/furkandegirmenciler78)
 
 ## Leafyet Nedir?
 
